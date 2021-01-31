@@ -1,8 +1,8 @@
 name: flutter_neon_ui
-description: A new Flutter package project.
+description: A package with full of neon ui widgets.
 version: 0.0.1
-author:
-homepage:
+author: Ranveer Singh<ranveergour781@gmail.com>
+homepage: https://github.com/RanveerSingh1997/flutter_neon_ui.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
